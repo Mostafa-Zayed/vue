@@ -7,3 +7,8 @@ npm i vue-router@next
 npm i laravel-vue-i18n
 
 npm install bootstrap
+
+npm i @mdi/font
+
+npm i @mdi/font
+
