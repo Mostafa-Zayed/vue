@@ -5,3 +5,5 @@ npm install --save-dev vue-loader@next
 npm i vue-router@next
 
 npm i laravel-vue-i18n
+
+npm install bootstrap
