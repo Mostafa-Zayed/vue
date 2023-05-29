@@ -23,5 +23,7 @@ createApp(App).use(vuetify).use(i18nVue,{
   lang: 'ar',
     resolve: lang => import(`./lang/${lang}.json`),
 }).mount('#app')
+import Toaster from '@meforma/vue-toaster';
 
+createApp(App).use(Toaster).mount('#app')
 import "bootstrap/dist/js/bootstrap.js"
