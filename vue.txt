@@ -1,4 +1,4 @@
-install npm
+npm install
 npm install --save vue@next
 npm install --save-dev vue-loader@next
 
