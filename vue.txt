@@ -13,4 +13,6 @@ npm i @mdi/font
 
 npm install vuex@next --save
 
+npm install stylus-loader@3 stylus
+
 
