@@ -1,4 +1,5 @@
 npm install
+npm install cross-env
 npm install --save vue@next
 npm install --save-dev vue-loader@next
 
