@@ -11,5 +11,4 @@ npm install bootstrap
 
 npm i @mdi/font
 
-npm i @mdi/font
 
