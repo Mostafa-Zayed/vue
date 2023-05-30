@@ -1,1 +1,5 @@
 
+v-bind:argument="var"
+:argument="var"
+v-text="var"
+v-html="var"
