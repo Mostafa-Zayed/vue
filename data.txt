@@ -3,3 +3,9 @@ v-bind:argument="var"
 :argument="var"
 v-text="var"
 v-html="var"
+v-once="var"
+
+
+v-if
+v-else
+v-else-if
