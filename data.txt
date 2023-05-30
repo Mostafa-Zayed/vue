@@ -9,3 +9,6 @@ v-once="var"
 v-if
 v-else
 v-else-if
+
+
+v-show
