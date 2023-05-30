@@ -14,3 +14,7 @@ v-else-if
 v-show
 
 <li v-for="(element,index) in arr" :key="index"></li>
+
+v-for  object
+
+<li v-for="(element,prop,index) in object :key="index"></li>
