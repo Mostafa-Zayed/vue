@@ -12,3 +12,5 @@ v-else-if
 
 
 v-show
+
+<li v-for="(element,index) in arr" :key="index"></li>
