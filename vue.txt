@@ -2,17 +2,13 @@ npm install
 npm install cross-env
 npm install --save vue@next
 npm install --save-dev vue-loader@next
-
+npm install --save axios vue-axios
+npm install vue-social-auth
 npm i vue-router@next
-
 npm i laravel-vue-i18n
-
 npm install bootstrap
-
 npm i @mdi/font
-
 npm install vuex@next --save
-
 npm install stylus-loader@3 stylus
 npm install @meforma/vue-toaster
 
