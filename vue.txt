@@ -12,4 +12,6 @@ npm install vuex@next --save
 npm install stylus-loader@3 stylus
 npm install @meforma/vue-toaster
 
+https://jasonwatmore.com/post/2020/10/06/vue-3-facebook-login-tutorial-example
+
 
